@@ -51,3 +51,24 @@ aside {
     height: 100%;
     width: 25%;
 }
+
+footer {
+    background-color: rgb(75, 119, 196);;
+    border-radius: 6px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p {
+    color: rgb(8, 8, 8);
+    font-size: 1.2rem;
+}
+
+footer a {
+    color: rgb(132, 175, 212);
+    text-decoration: none;
+    font-weight: 500;
+}
