@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&display=swap');
+
+.ubuntu-medium {
+    font-family: "Ubuntu", sans-serif;
+    font-weight:500;
+    font-style: normal;
+}
+
+*{ 
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Platypi", sans-serif;
+    color: rgb(132, 175, 212);
+    padding: 10px;
+}
+header {
+    background-color: rgb(75, 119, 196);
+    border-radius: 6px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
